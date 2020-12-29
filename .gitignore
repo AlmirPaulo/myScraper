@@ -1,2 +1,9 @@
 env
 note_*
+*.txt
+*.csv
+*.xlsx
+*.sql
+*.db
+*.json
+slots
